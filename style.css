@@ -1,0 +1,96 @@
+.card{
+    border: none;
+}
+
+.card-header{
+    border-bottom: none;
+}
+.card-footer{
+    border-top: none;
+}
+.bg-header{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(255, 159, 28) 0%, rgba(5,210,251,0.01795100364364499) 100%);
+ 
+
+}
+.bg-footer{
+    background: linear-gradient(90deg, rgba(5,210,251,0.01795100364364499) 0%, rgb(255, 159, 28) 100%);
+}
+.search-title{
+    color: rgb(226, 143, 25);
+    font-family: cursive;
+}
+
+#searchBtn{
+    background-color:rgb(255, 159, 28);
+    border: none;
+    color: white;
+}
+#show-recipe .meal-card .card{
+    box-shadow: 0px 8px 10px #82daea;
+
+}
+.modal-header{
+    border-bottom: none;
+}
+
+
+.meal-title{
+    font-family: popins;
+}
+.recipe-btn{
+    background-color:rgb(255, 159, 28);
+    border: none;
+    color: white;
+}
+.recipe-btn:hover{
+    background-color: rgb(255, 159, 28);
+    color: white;
+}
+
+.main-meal-title{
+    font-family: popins;
+    margin: 10px 10px;
+}
+.main-meal-title-bg{
+    background-color: rgb(255, 159, 28);
+    border-radius: 20px;
+}
+.main-meal-title-bg .col-12{
+    padding: 0px;
+}
+
+.main-meal-img img{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.no-found{
+    color: red;
+}
+
+.instructions{
+    text-align: left;
+}
+
+.ingredient-data p{
+    margin-bottom: 0px;
+}
+
+.dropdown-center .btn{
+    background-color:rgb(255, 159, 28) ;
+    color: white;
+}
+
+.dropdown-center .dropdown-menu{
+    /* background-color: cyan; */
+    border: none;
+}
+.dropdown-center .dropdown-menu {
+    text-align: center;
+}
+
+.YTiframe iframe{
+    border-radius: 20px;
+}
